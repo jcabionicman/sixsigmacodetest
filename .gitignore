@@ -1,5 +1,9 @@
-bin
-obj
-node_modules
-debug
-release
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CodingChallenge/bin/Debug/net6.0
+/CodingChallenge/obj
+/CodingChallengeTest/bin
+/CodingChallengeTest/obj
