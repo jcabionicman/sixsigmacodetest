@@ -1,4 +1,4 @@
-# sixsigmacodetest
+# Six Sigma Code Challenge
 Code Challenge for Six Sigma
 Here Are my notes:
 Algorithms: I was not completely clear on the requirement for FormatSeparators() so I built a function that returns a concatenated string representation of the inbound list.
